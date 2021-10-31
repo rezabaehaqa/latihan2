@@ -12,5 +12,5 @@ untuk dapat membuat program tersebut kita buat algoritma atau langkah-langkahnya
 untuk lebih jelasnya kita bisa lihat gambar flowchartnya di bawah ini
 ![gambar](screenshot/ss3.png)
 
-ini adalah contoh hasil dari tampilan meghitung luas dan keliling lingkaran
+ini adalah contoh hasil dari tampilan menghitung luas dan keliling lingkaran
 ![gambar](screenshot/ss2.png)
