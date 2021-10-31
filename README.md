@@ -10,7 +10,7 @@ untuk dapat membuat program tersebut kita buat algoritma atau langkah-langkahnya
 6. selesai
 
 untuk lebih jelasnya kita lihat gambar flowchartnya di bawah ini
-![gambar](screenshot/ss1.png)
+![gambar](screenshot/ss3.png)
 
 ini adalah contoh hasil dari tampilan meghitung luas dan keliling lingkaran
 ![gambar](screenshot/ss2.png)
